@@ -12,3 +12,25 @@ h1 {
   font-size: 48px;
   font-family: fantasy;
 }
+ol {
+  text-align: left;
+  align-content: center;
+  margin: auto;
+  width: auto;
+  padding-top: 15px;
+  color:rgb(103, 6, 128);
+  padding-bottom: 15px;
+}
+ul {
+  text-align: left;
+  align-content: center;
+  margin: auto;
+  padding-top: 15px;
+  color: darkred;
+  padding-bottom: 15px;
+}
+.cannoli {
+  display: flex;
+  margin: auto;
+  color: red;
+}
